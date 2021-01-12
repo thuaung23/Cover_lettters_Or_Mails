@@ -1,0 +1,20 @@
+[Your Name],
+Address | Telephone | Email
+
+[Recipient Name]
+Title
+Company Name
+Address
+City, State Zipcode
+
+Dear [Recipient Name],
+
+Write the body of the text accordingly.
+-
+-
+-
+-
+-
+
+Sincerely,
+[Your Name].
